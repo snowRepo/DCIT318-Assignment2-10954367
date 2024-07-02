@@ -1,0 +1,14 @@
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\bin\Debug\net8.0\Animal.exe
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\bin\Debug\net8.0\Animal.deps.json
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\bin\Debug\net8.0\Animal.runtimeconfig.json
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\bin\Debug\net8.0\Animal.dll
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\bin\Debug\net8.0\Animal.pdb
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\obj\Debug\net8.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\obj\Debug\net8.0\Animal.AssemblyInfoInputs.cache
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\obj\Debug\net8.0\Animal.AssemblyInfo.cs
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\obj\Debug\net8.0\Animal.csproj.CoreCompileInputs.cache
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\obj\Debug\net8.0\Animal.dll
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\obj\Debug\net8.0\refint\Animal.dll
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\obj\Debug\net8.0\Animal.pdb
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\obj\Debug\net8.0\Animal.genruntimeconfig.cache
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\Animal\Animal\obj\Debug\net8.0\ref\Animal.dll

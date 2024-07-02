@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\Animal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71E755-53AB-4B89-B468-E583BC9DD119}|Animal\\Animal.csproj|c:\\users\\snow\\source\\repos\\dcit318-assignment2-10954367\\animal\\animal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D71E755-53AB-4B89-B468-E583BC9DD119}|Animal\\Animal.csproj|solutionrelative:animal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71E755-53AB-4B89-B468-E583BC9DD119}|Animal\\Animal.csproj|c:\\users\\snow\\source\\repos\\dcit318-assignment2-10954367\\animal\\animal\\class cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D71E755-53AB-4B89-B468-E583BC9DD119}|Animal\\Animal.csproj|solutionrelative:animal\\class cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71E755-53AB-4B89-B468-E583BC9DD119}|Animal\\Animal.csproj|c:\\users\\snow\\source\\repos\\dcit318-assignment2-10954367\\animal\\animal\\class dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D71E755-53AB-4B89-B468-E583BC9DD119}|Animal\\Animal.csproj|solutionrelative:animal\\class dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71E755-53AB-4B89-B468-E583BC9DD119}|Animal\\Animal.csproj|c:\\users\\snow\\source\\repos\\dcit318-assignment2-10954367\\animal\\animal\\base class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D71E755-53AB-4B89-B468-E583BC9DD119}|Animal\\Animal.csproj|solutionrelative:animal\\base class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class Cat.cs",
+              "DocumentMoniker": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\Animal\\Animal\\Class Cat.cs",
+              "RelativeDocumentMoniker": "Animal\\Class Cat.cs",
+              "ToolTip": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\Animal\\Animal\\Class Cat.cs",
+              "RelativeToolTip": "Animal\\Class Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:32:18.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class Dog.cs",
+              "DocumentMoniker": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\Animal\\Animal\\Class Dog.cs",
+              "RelativeDocumentMoniker": "Animal\\Class Dog.cs",
+              "ToolTip": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\Animal\\Animal\\Class Dog.cs",
+              "RelativeToolTip": "Animal\\Class Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:18:37.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Base Class.cs",
+              "DocumentMoniker": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\Animal\\Animal\\Base Class.cs",
+              "RelativeDocumentMoniker": "Animal\\Base Class.cs",
+              "ToolTip": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\Animal\\Animal\\Base Class.cs",
+              "RelativeToolTip": "Animal\\Base Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:14:10.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\Animal\\Animal\\Program.cs",
+              "RelativeDocumentMoniker": "Animal\\Program.cs",
+              "ToolTip": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\Animal\\Animal\\Program.cs",
+              "RelativeToolTip": "Animal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:02:24.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
