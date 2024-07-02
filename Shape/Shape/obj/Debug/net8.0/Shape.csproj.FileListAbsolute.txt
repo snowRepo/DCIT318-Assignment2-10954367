@@ -1,0 +1,15 @@
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\bin\Debug\net8.0\Shape.exe
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\bin\Debug\net8.0\Shape.deps.json
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\bin\Debug\net8.0\Shape.runtimeconfig.json
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\bin\Debug\net8.0\Shape.dll
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\bin\Debug\net8.0\Shape.pdb
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\obj\Debug\net8.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\obj\Debug\net8.0\Shape.AssemblyInfoInputs.cache
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\obj\Debug\net8.0\Shape.AssemblyInfo.cs
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\obj\Debug\net8.0\Shape.csproj.CoreCompileInputs.cache
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\obj\Debug\net8.0\Shape.sourcelink.json
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\obj\Debug\net8.0\Shape.dll
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\obj\Debug\net8.0\refint\Shape.dll
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\obj\Debug\net8.0\Shape.pdb
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\obj\Debug\net8.0\Shape.genruntimeconfig.cache
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\Shape\Shape\obj\Debug\net8.0\ref\Shape.dll
