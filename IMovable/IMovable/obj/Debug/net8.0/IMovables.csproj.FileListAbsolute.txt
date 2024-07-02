@@ -1,0 +1,15 @@
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\obj\Debug\net8.0\IMovables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\obj\Debug\net8.0\IMovables.AssemblyInfoInputs.cache
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\obj\Debug\net8.0\IMovables.AssemblyInfo.cs
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\obj\Debug\net8.0\IMovables.csproj.CoreCompileInputs.cache
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\obj\Debug\net8.0\IMovables.sourcelink.json
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\bin\Debug\net8.0\IMovables.exe
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\bin\Debug\net8.0\IMovables.deps.json
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\bin\Debug\net8.0\IMovables.runtimeconfig.json
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\bin\Debug\net8.0\IMovables.dll
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\bin\Debug\net8.0\IMovables.pdb
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\obj\Debug\net8.0\IMovables.dll
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\obj\Debug\net8.0\refint\IMovables.dll
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\obj\Debug\net8.0\IMovables.pdb
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\obj\Debug\net8.0\IMovables.genruntimeconfig.cache
+C:\Users\snow\source\repos\DCIT318-Assignment2-10954367\DCIT318-Assignment2-10954367\IMovable\IMovable\obj\Debug\net8.0\ref\IMovables.dll

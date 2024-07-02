@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\DCIT318-Assignment2-10954367\\IMovable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE11C9F-AE0E-4BAE-A34C-CE04533286C2}|IMovable\\IMovable.csproj|c:\\users\\snow\\source\\repos\\dcit318-assignment2-10954367\\dcit318-assignment2-10954367\\imovable\\imovable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE11C9F-AE0E-4BAE-A34C-CE04533286C2}|IMovable\\IMovable.csproj|solutionrelative:imovable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE11C9F-AE0E-4BAE-A34C-CE04533286C2}|IMovable\\IMovable.csproj|c:\\users\\snow\\source\\repos\\dcit318-assignment2-10954367\\dcit318-assignment2-10954367\\imovable\\imovable\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE11C9F-AE0E-4BAE-A34C-CE04533286C2}|IMovable\\IMovable.csproj|solutionrelative:imovable\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE11C9F-AE0E-4BAE-A34C-CE04533286C2}|IMovable\\IMovable.csproj|c:\\users\\snow\\source\\repos\\dcit318-assignment2-10954367\\dcit318-assignment2-10954367\\imovable\\imovable\\bicycle class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE11C9F-AE0E-4BAE-A34C-CE04533286C2}|IMovable\\IMovable.csproj|solutionrelative:imovable\\bicycle class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE11C9F-AE0E-4BAE-A34C-CE04533286C2}|IMovable\\IMovable.csproj|c:\\users\\snow\\source\\repos\\dcit318-assignment2-10954367\\dcit318-assignment2-10954367\\imovable\\imovable\\car class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE11C9F-AE0E-4BAE-A34C-CE04533286C2}|IMovable\\IMovable.csproj|solutionrelative:imovable\\car class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bicycle Class.cs",
+              "DocumentMoniker": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\DCIT318-Assignment2-10954367\\IMovable\\IMovable\\Bicycle Class.cs",
+              "RelativeDocumentMoniker": "IMovable\\Bicycle Class.cs",
+              "ToolTip": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\DCIT318-Assignment2-10954367\\IMovable\\IMovable\\Bicycle Class.cs",
+              "RelativeToolTip": "IMovable\\Bicycle Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:22:32.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car Class.cs",
+              "DocumentMoniker": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\DCIT318-Assignment2-10954367\\IMovable\\IMovable\\Car Class.cs",
+              "RelativeDocumentMoniker": "IMovable\\Car Class.cs",
+              "ToolTip": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\DCIT318-Assignment2-10954367\\IMovable\\IMovable\\Car Class.cs",
+              "RelativeToolTip": "IMovable\\Car Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:15:48.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\DCIT318-Assignment2-10954367\\IMovable\\IMovable\\IMovable.cs",
+              "RelativeDocumentMoniker": "IMovable\\IMovable.cs",
+              "ToolTip": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\DCIT318-Assignment2-10954367\\IMovable\\IMovable\\IMovable.cs",
+              "RelativeToolTip": "IMovable\\IMovable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:13:27.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\DCIT318-Assignment2-10954367\\IMovable\\IMovable\\Program.cs",
+              "RelativeDocumentMoniker": "IMovable\\Program.cs",
+              "ToolTip": "C:\\Users\\snow\\source\\repos\\DCIT318-Assignment2-10954367\\DCIT318-Assignment2-10954367\\IMovable\\IMovable\\Program.cs",
+              "RelativeToolTip": "IMovable\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:40:40.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
